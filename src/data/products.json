@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Dune Stoneware Mug",
+    "price": 28,
+    "category": "Kitchen",
+    "description": "A hand-glazed everyday mug with a warm, speckled finish and generous handle.",
+    "imageUrl": "./images/dune-mug.svg"
+  },
+  {
+    "id": 2,
+    "name": "Willow Serving Board",
+    "price": 46,
+    "category": "Kitchen",
+    "description": "An FSC-certified acacia board shaped and finished by hand for effortless sharing.",
+    "imageUrl": "./images/willow-board.svg"
+  },
+  {
+    "id": 3,
+    "name": "Meadow Linen Napkins",
+    "price": 34,
+    "category": "Table Linens",
+    "description": "A set of four softly washed linen napkins in an easy, garden-inspired green.",
+    "imageUrl": "./images/meadow-napkins.svg"
+  },
+  {
+    "id": 4,
+    "name": "Ember Soy Candle",
+    "price": 24,
+    "category": "Home Fragrance",
+    "description": "Cedarwood, fig, and amber poured in small batches with a clean cotton wick.",
+    "imageUrl": "./images/ember-candle.svg"
+  },
+  {
+    "id": 5,
+    "name": "Harvest Market Basket",
+    "price": 58,
+    "category": "Storage",
+    "description": "A sturdy handwoven basket for market mornings, blankets, or everyday clutter.",
+    "imageUrl": "./images/harvest-basket.svg"
+  },
+  {
+    "id": 6,
+    "name": "Cloud Cotton Throw",
+    "price": 68,
+    "category": "Textiles",
+    "description": "A breathable organic-cotton throw with a subtle stripe and hand-knotted fringe.",
+    "imageUrl": "./images/cloud-throw.svg"
+  },
+  {
+    "id": 7,
+    "name": "Terracotta Bud Vase",
+    "price": 32,
+    "category": "Decor",
+    "description": "A petite wheel-thrown vase that gives a single stem room to shine.",
+    "imageUrl": "./images/bud-vase.svg"
+  },
+  {
+    "id": 8,
+    "name": "Morning Pour Carafe",
+    "price": 42,
+    "category": "Kitchen",
+    "description": "Lightweight recycled glass with a softly rippled surface and comfortable pour.",
+    "imageUrl": "./images/morning-carafe.svg"
+  },
+  {
+    "id": 9,
+    "name": "Sage Incense Holder",
+    "price": 18,
+    "category": "Wellness",
+    "description": "A low-profile ceramic dish designed to catch ash and create a quiet pause.",
+    "imageUrl": "./images/incense-holder.svg"
+  },
+  {
+    "id": 10,
+    "name": "Oak Catchall Tray",
+    "price": 36,
+    "category": "Storage",
+    "description": "A smooth solid-oak tray for keys, jewelry, and all the small daily essentials.",
+    "imageUrl": "./images/oak-tray.svg"
+  },
+  {
+    "id": 11,
+    "name": "Hearth Match Cloche",
+    "price": 26,
+    "category": "Home Fragrance",
+    "description": "Long fireplace matches in a glass cloche with a striker tucked underneath.",
+    "imageUrl": "./images/match-cloche.svg"
+  },
+  {
+    "id": 12,
+    "name": "River Soap Dish",
+    "price": 16,
+    "category": "Bath",
+    "description": "A ridged stoneware dish that keeps your favorite bar dry between uses.",
+    "imageUrl": "./images/soap-dish.svg"
+  },
+  {
+    "id": 13,
+    "name": "Fern Tea Towel",
+    "price": 22,
+    "category": "Table Linens",
+    "description": "Absorbent linen-cotton woven with a delicate botanical motif in moss green.",
+    "imageUrl": "./images/fern-towel.svg"
+  },
+  {
+    "id": 14,
+    "name": "Solstice Wall Hook",
+    "price": 20,
+    "category": "Decor",
+    "description": "A sculptural solid-brass hook for robes, hats, towels, or a favorite tote.",
+    "imageUrl": "./images/solstice-hook.svg"
+  },
+  {
+    "id": 15,
+    "name": "Quiet Moments Journal",
+    "price": 19,
+    "category": "Stationery",
+    "description": "A clothbound journal with recycled dot-grid pages for notes and reflections.",
+    "imageUrl": "./images/quiet-journal.svg"
+  }
+]
